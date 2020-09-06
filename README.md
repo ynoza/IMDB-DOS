@@ -1,6 +1,8 @@
 
 # IMDB-DOS
 
+Determine the degree of seperation between any 2 actors (in the database) of IMBD.
+
 # Usage
 
 python degrees.py small                               
